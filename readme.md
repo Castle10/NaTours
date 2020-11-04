@@ -1,3 +1,3 @@
-# Natours Application
+# NaTours Application
 
-Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
+This Portfolio Project is built using modern technologies which include node.js, express, mongoDB, mongoose and friends
